@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "courage",
+  "base_artist": "Haruka Tomatsu",
+  "createdAt": "2026-03-12T16:18:05.448617Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heart of Courage",
+      "artist": "Thomas Bergersen feat. Two Steps from Hell",
+      "has_synced": true,
+      "path": "select/01_Heart_of_Courage_Thomas_Bergersen_feat._Two_Steps_from_Hell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heart of Courage",
+      "artist": "Thomas Bergersen, Two Steps From Hell",
+      "has_synced": true,
+      "path": "select/02_Heart_of_Courage_Thomas_Bergersen,_Two_Steps_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Liquid Courage",
+      "artist": "Metro Station",
+      "has_synced": true,
+      "path": "select/03_Liquid_Courage_Metro_Station.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Coward's Courage",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/04_Coward's_Courage_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cock Robin \u0000 Cowards courage",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/05_Cock_Robin_\u0000_Cowards_courage_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Coward's Courage",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/06_Coward's_Courage_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Courage",
+      "artist": "The Whitest Boy Alive",
+      "has_synced": true,
+      "path": "select/07_Courage_The_Whitest_Boy_Alive.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Courage",
+      "artist": "Kyla La Grange",
+      "has_synced": true,
+      "path": "select/08_Courage_Kyla_La_Grange.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Spill My Courage",
+      "artist": "Wall of Voodoo",
+      "has_synced": false,
+      "path": "select/09_Don't_Spill_My_Courage_Wall_of_Voodoo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Courage",
+      "artist": "Manowar",
+      "has_synced": false,
+      "path": "select/10_Courage_Manowar.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Courage",
+      "artist": "Manowar",
+      "has_synced": true,
+      "path": "select/11_Courage_Manowar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Courage (24 Bit remastered LP version)",
+      "artist": "Manowar",
+      "has_synced": true,
+      "path": "select/12_Courage_(24_Bit_remastered_LP_version)_Manowar.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Courage - Live",
+      "artist": "Manowar",
+      "has_synced": false,
+      "path": "select/13_Courage_-_Live_Manowar.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Courage (live)",
+      "artist": "Manowar",
+      "has_synced": false,
+      "path": "select/14_Courage_(live)_Manowar.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Courage Today, Victory Tomorrow",
+      "artist": "Unleashed",
+      "has_synced": true,
+      "path": "select/15_Courage_Today,_Victory_Tomorrow_Unleashed.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Courage",
+      "artist": "Peter Gabriel",
+      "has_synced": false,
+      "path": "select/16_Courage_Peter_Gabriel.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Courage to Forgive",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/17_The_Courage_to_Forgive_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "courage",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_01_courage_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "courage",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_02_courage_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "courage",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_03_courage_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "courage",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_04_courage_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "courage",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_05_courage_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Courage",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_06_Courage_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "courage",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_07_courage_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "courage",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_08_courage_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "courage",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_09_courage_戸松_遥.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "courage",
+      "artist": "戸松 遥",
+      "has_synced": false,
+      "path": "select/pl_10_courage_戸松_遥.txt"
+    }
+  ]
+}
